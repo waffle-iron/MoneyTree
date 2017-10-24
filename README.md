@@ -1,3 +1,3 @@
-#Money Tree
+# Money Tree
 
 Stock picking app
